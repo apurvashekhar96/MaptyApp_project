@@ -1,0 +1,3 @@
+Mapty:
+
+Mapty is a web app that lets users track their workout along with the geolocations. It uses leaflet and local storage to provide location related features and storing data locally on the browser.
